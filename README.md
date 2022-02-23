@@ -18,8 +18,10 @@
 #### MixTape | Demo | [Repo](https://github.com/madisonsorah/phase-4-project-mixtape)
 :musical_note: A music discovery platform for sharing custom playlists.
 
-### Connect with Me :link:
-[![Email](https://cdn-icons-png.flaticon.com/512/281/281769.png | width=40)](kirylmitch@gmail.com)
+### Connect with Me! :link:
+[Email](kirylmitch@gmail.com) - kirylmitch@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dayton-houston/)
+[Blogs](https://medium.com/@kirylmitch)
 
 
 <!--
