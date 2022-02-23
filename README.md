@@ -7,7 +7,7 @@
 ### Projects
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Wyrm's Crucible | Demo | [Repo](https://github.com/Straigus1/Wyrms-Crucible)
-A strategy role-playing narrative adventure game built with React and Ruby.
+:video_game: A strategy role-playing narrative adventure game built with React and Ruby.
 
 #### MMO Finder | Demo | [Repo](https://github.com/Straigus1/MMO_Finder)
 An informative website that searches and filters through popular MMOs.
