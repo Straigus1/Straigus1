@@ -20,7 +20,9 @@
 
 ### Connect with Me! :link:
 [Email](kirylmitch@gmail.com) - kirylmitch@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/dayton-houston/)
+
 [Blogs](https://medium.com/@kirylmitch)
 
 
