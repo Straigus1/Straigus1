@@ -26,6 +26,7 @@
 
 Email: kirylmitch@gmail.com
 
+![174857](https://user-images.githubusercontent.com/91290969/155408575-23be8c18-b735-4716-8a59-2bac647821f2.png)
 
 <!--
 **Straigus1/Straigus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
