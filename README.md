@@ -1,4 +1,4 @@
-### Hi there! I'm Dayton!👋
+### Hi there! I'm Dayton(Lyrik)!👋
 
   Based in Pottstown, Pennsylvania. I've recently graduated from Flatiron School's Software Engineering Live Program. Experienced with JavaScript and Ruby on Rails and have a background in Customer Service. Enthusiast of recognizing joy and retaining happiness. 
   
