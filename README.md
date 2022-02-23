@@ -1,6 +1,6 @@
-### Hi there! I'm Dayton, based in Pottstown, Pennsylvania! 👋
+### Hi there! I'm Dayton!👋
 
-  I've recently graduated from Flatiron School's Software Engineering Live Program. Experienced with JavaScript and Ruby on Rails and have a background in Customer Service. Enthusiast of recognizing joy and retaining happiness. At the moment, I'm most interested in front-end development. Especially comfortable with React and JavaScript. Currently learning redux and editting my capstone project.
+  Based in Pottstown, Pennsylvania. I've recently graduated from Flatiron School's Software Engineering Live Program. Experienced with JavaScript and Ruby on Rails and have a background in Customer Service. Enthusiast of recognizing joy and retaining happiness. At the moment, I'm most interested in front-end development. Especially comfortable with React and JavaScript. Currently learning redux and editting my capstone project.
   
 
  
