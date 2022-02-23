@@ -19,7 +19,7 @@
 :musical_note: A music discovery platform for sharing custom playlists.
 
 ### Connect with Me :link:
-[![Email](https://cdn-icons-png.flaticon.com/512/281/281769.png)](kirylmitch@gmail.com)
+[![Email](https://cdn-icons-png.flaticon.com/512/281/281769.png =100x100)](kirylmitch@gmail.com)
 
 
 <!--
