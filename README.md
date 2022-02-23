@@ -22,7 +22,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [<img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="60">](https://medium.com/@kirylmitch) 
-[<img src="https://user-images.githubusercontent.com/91290969/155408575-23be8c18-b735-4716-8a59-2bac647821f2.png" width="60" height="60" style="background-color:#000000">](https://www.linkedin.com/in/dayton-houston/) 
+[<img src="https://user-images.githubusercontent.com/91290969/155408575-23be8c18-b735-4716-8a59-2bac647821f2.png" width="60" height="60">](https://www.linkedin.com/in/dayton-houston/) 
 
 Email: kirylmitch@gmail.com
 
