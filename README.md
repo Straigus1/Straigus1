@@ -18,6 +18,9 @@
 #### MixTape | Demo | [Repo](https://github.com/madisonsorah/phase-4-project-mixtape)
 :musical_note: A music discovery platform for sharing custom playlists.
 
+### Connect with Me :link:
+![Email](https://cdn-icons-png.flaticon.com/512/281/281769.png)(kirylmitch@gmail.com) - kirylmitch@gmail.com
+
 
 <!--
 **Straigus1/Straigus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
