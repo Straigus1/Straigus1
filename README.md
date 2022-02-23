@@ -19,6 +19,7 @@
 :musical_note: A music discovery platform for sharing custom playlists.
 
 ### Connect with Me! :link:
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 [Email](kirylmitch@gmail.com) - kirylmitch@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/dayton-houston/)
