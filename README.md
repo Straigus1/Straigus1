@@ -20,13 +20,11 @@
 
 ### Connect with Me! :link:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-[LinkedIn](https://www.linkedin.com/in/dayton-houston/)
 
-[Blogs](https://medium.com/@kirylmitch)
+[<img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="60">](https://medium.com/@kirylmitch) `#000000`
+[<img src="https://user-images.githubusercontent.com/91290969/155408575-23be8c18-b735-4716-8a59-2bac647821f2.png" width="60" height="60">](https://www.linkedin.com/in/dayton-houston/) `#000000`
 
 Email: kirylmitch@gmail.com
-
-[<img src="https://user-images.githubusercontent.com/91290969/155408575-23be8c18-b735-4716-8a59-2bac647821f2.png" width="100" height="100">](https://www.linkedin.com/in/dayton-houston/)
 
 <!--
 **Straigus1/Straigus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
