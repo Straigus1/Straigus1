@@ -20,11 +20,11 @@
 
 ### Connect with Me! :link:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-Email: kirylmitch@gmail.com
-
 [LinkedIn](https://www.linkedin.com/in/dayton-houston/)
 
 [Blogs](https://medium.com/@kirylmitch)
+
+Email: kirylmitch@gmail.com
 
 
 <!--
