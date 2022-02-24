@@ -9,7 +9,7 @@
 #### Wyrm's Crucible | [Demo](https://www.loom.com/share/6c7b6a9e277a4943bfffaf9ddaa5f45b) | [Repo](https://github.com/Straigus1/Wyrms-Crucible)
 :video_game: A strategy role-playing narrative adventure game built with React and Ruby.
 
-#### MMO Finder | Demo | [Repo](https://github.com/Straigus1/MMO_Finder)
+#### MMO Finder | [Demo](https://www.loom.com/share/0e82c23578f34f2895054a06821eef84) | [Repo](https://github.com/Straigus1/MMO_Finder)
 :mag: An informative website that searches and filters through popular MMOs.
 
 #### To-Do List | Demo | [Front-end](https://github.com/Laurenbethhess/phase-3-project-front) | [Back-end](https://github.com/Straigus1/phase-3-sinatra-react-project)
