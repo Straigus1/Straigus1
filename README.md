@@ -6,7 +6,7 @@
  
 ### Projects
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Wyrm's Crucible | [Demo](https://www.loom.com/share/6c7b6a9e277a4943bfffaf9ddaa5f45b) | [Repo](https://github.com/Straigus1/Wyrms-Crucible)
+#### Wyrm's Crucible | [Demo](https://www.loom.com/share/985ba189e08e47e6a700dcd077f2ebe9) | [Repo](https://github.com/Straigus1/Wyrms-Crucible)
 :video_game: A strategy role-playing narrative adventure game built with React and Ruby.
 
 #### MMO Finder | [Demo](https://www.loom.com/share/0e82c23578f34f2895054a06821eef84) | [Repo](https://github.com/Straigus1/MMO_Finder)
